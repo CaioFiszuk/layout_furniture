@@ -1,5 +1,5 @@
 # Layout_furniture
-### First challange on Rocketseat plataform
+### First challenge on Rocketseat plataform
 --------------------------------------------
 It is a CSS layout of a furniture website
 
